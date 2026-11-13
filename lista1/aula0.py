@@ -1,0 +1,1 @@
+print("nome: caio, cidade: viamão,  idade: 17 ")
